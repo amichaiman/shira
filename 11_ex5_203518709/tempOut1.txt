@@ -1,0 +1,3 @@
+d
+ERROR: text.txt does not exist or cannot be processed
+dansk!

@@ -1,0 +1,2 @@
++ ERROR: USAGE remove FILENAME
++ ERROR: text.txt does not exist or cannot be processed
